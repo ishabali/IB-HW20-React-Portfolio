@@ -7,7 +7,7 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light sticky-top">
       <div class="navbar-brand">
-        <h2>Dmitrii Zverev</h2> 
+        <h2>Isha Bali</h2> 
         <h5>Chicago IL</h5> 
       </div>
       
