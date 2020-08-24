@@ -25,7 +25,7 @@ function Home() {
             Project Design. My current area of interest is Web Development. 
             I am a full-stack web developer.             
             </p>
-            <a href="https://docs.google.com/document/d/1DS2DIkUIm5BBt7SLdHHnEHezM81L-nASURQsF62X2Lg/edit?usp=sharing" target="_blank">Resume</a>
+            <a href="https://docs.google.com/document/d/1JzL9GNOIxxzAl8198CDzCDeDlYlCJ_hLRO6TJPcRo_8/edit?usp=sharing" target="_blank">Resume</a>
           </Col>
         </Row>
       </Container>
