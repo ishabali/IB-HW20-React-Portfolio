@@ -16,10 +16,11 @@ function Card(props) {
             <strong>{props.name}</strong> 
             </li>
             <li>
-              <a href={props.github}>Github:</a> 
+              <a href={props.github}><strong>Github</strong></a> 
             </li>
             <li>
-              <strong>Deployed:</strong> {props.deployed}
+            <a href={props.deployed}><strong>Deployed</strong></a> 
+              {/* <strong>Deployed</strong> {props.deployed} */}
             </li>
           </ul>
         </div>
