@@ -29,7 +29,7 @@ function Home() {
               and teamwork skills, and a passion for coding. I want to further learn and grow
                in an organization and contribute there by doing high quality work. </p>
             <p>
-              <strong>Technical Skills:</strong>
+              <strong>Technical Skills :</strong>
               Languages : HTML, CSS, Javascript
               Libraries : React, Bootstrap, jQuery
               Databases : MySQL, MongoDB, Oracle
