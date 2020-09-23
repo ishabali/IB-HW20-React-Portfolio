@@ -31,7 +31,7 @@ function ContactForm (props) {
 
    
             <div className="button-container">
-                <a type="submit" className="btn btn-primary" href={`mailto:w@w.us?subject=Message from ${props.name}: ${props.subject}&body=${props.message}`}>Mail Me</a>
+                <a type="submit" className="btn btn-primary" href={`mailto:ishabali-sample@gmail.com?subject=Message from ${props.name}: ${props.subject}&body=${props.message}`}>Mail Me</a>
             </div> 
         </form>
         )
