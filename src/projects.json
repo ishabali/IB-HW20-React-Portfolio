@@ -3,8 +3,8 @@
     "id": 1,
     "name": "Canine Cupid - Full stack Social Networking React application to link dogs and dog-owners with other pets and pet lovers. MongoDB database. Frontend on AWS & Backend on Heroku. ",
     "image": "images/canine-cupid-v-2-0-ezgif.gif",
-    "github": "https://github.com/ishabali/Project3-Front-End-Canine-Cupid",
-    "deployed": "http://canine-cupid.s3-website.us-east-2.amazonaws.com/"
+    "github": "https://github.com/Canine-Cupid-2-0/Front-End",
+    "deployed": "http://canine-cupid-2-0.s3-website.us-east-2.amazonaws.com/login"
   },
   {
     "id": 2,
