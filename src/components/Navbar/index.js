@@ -7,11 +7,14 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light sticky-top">
       <div class="navbar-brand">
-        <h2>Isha Bali</h2> 
-        <h5>Chicago IL</h5> 
-      </div>
-      
-      <div>
+        <h1>Isha Bali</h1>
+        {/* <h4>Full-Stack Web Developer</h4> */}
+        <h4>Full-Stack Web Developer, Chicago - IL</h4>
+        {'      '} <a href="http://www.linkedin.com/in/ishabali" target="_blank"><i className="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a>
+        {'      '} <a href="https://github.com/ishabali" target="_blank"><i className="fa fa-github fa-2x" aria-hidden="true" ></i></a>        
+        {'      '} <a href="https://stackoverflow.com/users/13091679/ishabali?tab=profile" target="_blank"><i className="fa fa-stack-overflow fa-2x" aria-hidden="true"></i></a>
+      {/* </div>      
+      <div> */}
         <ul className="navbar-nav">
           <li className="nav-item">
             <Link
@@ -21,7 +24,7 @@ function Navbar() {
                 : "nav-link"}
               // className = "disabled-link"
             >
-              Home
+              <h5 style={{color:"Blue"}}>Home</h5>
             </Link>
           </li>
           <li className="nav-item">
@@ -31,7 +34,7 @@ function Navbar() {
                 ? "nav-link active" 
                 : "nav-link"}
             >
-              Projects
+              <h5 style={{color:"Blue"}}>Projects</h5>
             </Link>
           </li>
           <li className="nav-item">
@@ -41,9 +44,10 @@ function Navbar() {
                 ? "nav-link active" 
                 : "nav-link"}
             >
-              Contact
+              <h5 style={{color:"Blue"}}>Contact</h5>
             </Link>
           </li>
+       
         </ul>
       </div>
     </nav>

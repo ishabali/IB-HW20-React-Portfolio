@@ -1,21 +1,21 @@
 [
   {
     "id": 1,
-    "name": "Canine Cupid",
-    "image": "images/canine-cupid-ezgif.gif",
+    "name": "Canine Cupid - Full stack Social Networking React application to link dogs and dog-owners with other pets and pet lovers. MongoDB database. Frontend on AWS & Backend on Heroku. ",
+    "image": "images/canine-cupid-v-2-0-ezgif.gif",
     "github": "https://github.com/ishabali/Project3-Front-End-Canine-Cupid",
     "deployed": "http://canine-cupid.s3-website.us-east-2.amazonaws.com/"
   },
   {
     "id": 2,
-    "name": "'Born To Read' Book Club",
+    "name": "'Born To Read' Book Club - Fullstack Web App displaying books from Google Books API and allowing users to create/read/update/delete reviews. MySQL databse. Backend on Heroku and Frontend on Github.",
     "image": "images/book-club-ezgif.gif",
     "github": "https://github.com/ishabali/Project-2-FrontEnd--Born-To-Read-Book-Club",
     "deployed": "https://nw-bookclub2020.github.io/FrontEnd.github.io/"
   },
   {
     "id": 3,
-    "name": "Dream Your Vacation",
+    "name": "Dream Your Vacation - Web Application that uses Tripadvisor and Openweather API’s to show the next 7 days weather and main tourist attractions at any city. Tripadvisor and Openweather API's",
     "image": "images/dream-your-vacation-ezgif.gif",
     "github": "https://github.com/ishabali/Project-1-Dream-Your-Vacation",
     "deployed": "https://ice-code-nw-2020.github.io/Project-1/"

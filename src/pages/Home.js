@@ -12,7 +12,10 @@ function Home() {
       <Container style={{ marginTop: 30 }}>
         <Row>
           <Col size="md-12">
-            <h1>About Me</h1>
+            <h2>About Me</h2>  
+              <h4>
+                <a href="https://www.canva.com/design/DAEIkcy6wqU/3xs_etKHXsCQOtvBCLx1Yw/view?utm_content=DAEIkcy6wqU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="_blank">Resume</a>             
+            </h4>
           </Col>
         </Row>
         <Row>
@@ -35,10 +38,7 @@ function Home() {
               Databases : MySQL, MongoDB, Oracle
               Frameworks: Node.js, Express
               Tools     : Github, Heroku, AWS, Robo 3T, SQL Workbench, Powerbuilder             
-            </p>
-            <strong>
-              <a href="https://www.canva.com/design/DAEIkcy6wqU/3xs_etKHXsCQOtvBCLx1Yw/view?utm_content=DAEIkcy6wqU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="_blank">Resume</a>
-            </strong>
+            </p>           
           </Col>
         </Row>
       </Container>

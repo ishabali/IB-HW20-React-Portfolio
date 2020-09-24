@@ -3,6 +3,12 @@ import React from "react"
 function ContactForm (props) {
     return ( 
         <form>
+            <div className="card-side">
+        {/* <div className="col-md-3 col-md-offset-1 sidebar"> */}
+                <h1>Connect with Me</h1>
+            </div>
+            <br/>
+
             <div className="form-group">
                 <label htmlFor="exampleFormControlInput1">Name</label>
                 <input type="text" className="form-control" 

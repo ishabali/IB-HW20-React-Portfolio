@@ -1,5 +1,6 @@
 .side {
   width: 230px;
+  height: 300 px;
   position: fixed!;
   /* z-index: 1; */
   top: 120px;
@@ -8,3 +9,8 @@
   /* overflow-x: hidden; */
   padding: 8px 0;
 }
+
+/* .card-side {
+  height: 100 px;
+  width: 200 px;
+} */
