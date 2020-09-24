@@ -12,7 +12,7 @@ function Home() {
       <Container style={{ marginTop: 30 }}>
         <Row>
           <Col size="md-12">
-            <h2>About Me</h2>  
+            <h3>About Me</h3>  
               <h4>
                 <a href="https://www.canva.com/design/DAEIkcy6wqU/3xs_etKHXsCQOtvBCLx1Yw/view?utm_content=DAEIkcy6wqU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="_blank">Resume</a>             
             </h4>
@@ -33,11 +33,13 @@ function Home() {
                in an organization and contribute there by doing high quality work. </p>
             <p>
               <strong>Technical Skills :</strong>
-              Languages : HTML, CSS, Javascript
-              Libraries : React, Bootstrap, jQuery
-              Databases : MySQL, MongoDB, Oracle
-              Frameworks: Node.js, Express
-              Tools     : Github, Heroku, AWS, Robo 3T, SQL Workbench, Powerbuilder             
+              <ul>
+              <li>Languages : HTML, CSS, Javascript</li>
+              <li>Libraries : React, Bootstrap, jQuery</li>
+              <li>Databases : MySQL, MongoDB, Oracle</li>
+              <li>Frameworks: Node.js, Express</li>
+              <li>Tools     : Github, Heroku, AWS, Robo 3T, SQL Workbench, Powerbuilder</li>
+              </ul>
             </p>           
           </Col>
         </Row>
