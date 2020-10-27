@@ -14,7 +14,7 @@ function Home() {
           <Col size="md-12">
             <h3>About Me</h3>  
               <h4>
-                <a href="https://docs.google.com/document/d/1yQCSTAk_PQBnFeW250DK-PK4iIGzuw43AEp_VjsyCMM/edit" target="_blank">Resume</a>
+                <a href="https://docs.google.com/document/d/1yQCSTAk_PQBnFeW250DK-PK4iIGzuw43AEp_VjsyCMM/edit?usp=sharing" target="_blank">Resume</a>
                 {/* <a href="https://www.canva.com/design/DAEIkcy6wqU/3xs_etKHXsCQOtvBCLx1Yw/view?utm_content=DAEIkcy6wqU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="_blank">Resume</a> */}
             </h4>
           </Col>
